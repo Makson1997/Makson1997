@@ -42,8 +42,6 @@
 
 ![Makson1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makson1997&show_icons=true&theme=radical&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makson1997&layout=compact&theme=radical)
-
 ---
 
 ### 📍 Цели и интересы:
