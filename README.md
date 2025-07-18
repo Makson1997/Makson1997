@@ -8,7 +8,7 @@
 ### 📫 Где меня найти:
 
 <a href="https://vk.com/your_vk" target="_blank">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <img align="left" alt="VKontakte" width="22px" src="https://vk.com/maksim_shakhov" />
 </a>
 <a href="https://t.me/your_telegram" target="_blank">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
